@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moldybot9411</h1>
-<h3 align="center">Professional idiot</h3>
+<h3 align="center">Active Java denier</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moldybot9411&label=Profile%20views&color=0e75b6&style=flat" alt="moldybot9411" /> </p>
 
